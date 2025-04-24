@@ -6,8 +6,8 @@
 ## Быстрый старт
 
 1.
-   git clone https://github.com/yourname/mlflow-project.git
-   cd mlflow-project
+   git clone https://github.com/0xFEE1DEADatm/MLOpsPractice_complicated.git
+   cd MLOpsPractice_complicated
 
 2. 
     docker-compose up --build

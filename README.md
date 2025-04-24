@@ -28,6 +28,7 @@ POST /predict:
     "petal_length": 1.4,
     "petal_width": 0.2
     }
+    
 Ответ:
     {
     "prediction": 0
@@ -41,6 +42,7 @@ POST /predict:
     "petal_length": 5.1,
     "petal_width": 1.9
     }
+    
 Ответ:
     {
     "prediction": 2
@@ -54,6 +56,7 @@ POST /predict:
     "petal_length": 1.4,
     "petal_width": 0.2
     }
+    
 Ответ:
     {
     "detail": [
